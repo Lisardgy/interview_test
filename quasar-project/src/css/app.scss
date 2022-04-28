@@ -1,0 +1,27 @@
+// app global css in SCSS form
+
+body {
+  background: #f3f4f6;
+}
+.container {
+  max-width: 1000px;
+  width: 100%;
+  padding: 1rem 3rem;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.flex {
+  display: flex;
+}
+.w-full {
+  width: 100%;
+}
+.h-full {
+  height: 100%;
+}
